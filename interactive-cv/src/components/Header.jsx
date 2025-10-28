@@ -1,14 +1,17 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 import ImageCarousel from './ImageCarousel'; 
-import SocialLinks from './SocialLinks';  
+import SocialLinks from './SocialLinks'; 
 
-const Header = ({ data }) => {
+const Header = ({ data, titleKey }) => {
+    const { t } = useTranslation();
+
     return (
         <header className="cv-header">
             <ImageCarousel /> 
 
             <h1>{data.name}</h1>
-            <h2>{data.title}</h2>
+            <h2>{t(titleKey)}</h2>
             
             <SocialLinks />
             

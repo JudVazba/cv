@@ -2,13 +2,19 @@ import React, { useState, useEffect } from 'react';
 import useInterval from '../hooks/useInterval'; 
 import img1 from "../assets/images/image1.jpg";
 import img2 from "../assets/images/image2.jpg";
+import img3 from "../assets/images/image3.jpg";
+import img4 from "../assets/images/image4.jpg";
+import img5 from "../assets/images/image5.jpg";
 
 const PROFILE_IMAGES = [
     img1,
     img2,
+    img3,
+    img4,
+    img5,
 ];
 
-const TRANSITION_TIME = 8000;
+const TRANSITION_TIME = 4000;
 const TRANSITION_DURATION_MS = 1000;
 const totalImages = PROFILE_IMAGES.length;
 

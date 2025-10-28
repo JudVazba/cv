@@ -1,0 +1,68 @@
+{
+  "profile_title": "Frontend Developer",
+  "profile_summary": "Desarrolladora Front-end altamente adaptable, con sólida experiencia en la creación de interfaces de usuario robustas y modernas para Web, Mobile y TV. Especializada en la arquitectura de componentes reutilizables y el desarrollo de aplicaciones totalmente responsivas. Acostumbrada a dominar rápidamente nuevas tecnologías (React, Angular, Flutter, IA) para ofrecer soluciones de alto rendimiento y calidad en cada proyecto.",
+  
+  "section_profile": "Perfil Profesional",
+  "section_experience": "Experiencia Profesional",
+  "section_skills": "Habilidades Técnicas",
+  "section_languages": "Idiomas",
+  "section_education": "Formación Académica y Complementaria",
+
+  "job_epam_position": "Desarrolladora Frontend",
+  "job_optiva_media_position": "Desarrolladora Junior",
+  
+  "epam_desc_1": "Desarrollé UIs responsivas para Web, Móvil y Smart TV (WebOS, Tizen) utilizando Flutter, Angular y React.",
+  "epam_desc_2": "Apliqué Prompt Engineering e integré llamadas a la API de OpenAI para acelerar el desarrollo.",
+  "epam_desc_3": "Redacté documentación técnica exhaustiva para asegurar la mantenibilidad del proyecto.",  
+  "epam_desc_4": "Experiencia en desarrollo de interfaces para Web, Mobile y TV, cubriendo todo el ciclo de vida del frontend.",
+  "epam_desc_5": "Sólido dominio de lenguajes clave (JavaScript, TypeScript, Dart, Java) y plataformas LowCode.",
+  "epam_desc_6": "Experiencia práctica en Frameworks y librerías modernas (React, Angular, Flutter), con enfoque en pruebas unitarias con Jest.",
+  "epam_desc_7": "Manejo avanzado de herramientas de desarrollo y automatización (Git, Gradle, Bitbucket, Postman, Swagger, WireMock, npm, Langflow, ArcGIS) y metodologías ágiles (Jira, Figma, Kanban).",
+  "epam_desc_8": "Implementación de Ingeniería de Prompting (IA generativa aplicada al desarrollo) y consumo directo de APIs de OpenAI para soluciones innovadoras.",
+  "epam_desc_9": "Contribuciones destacadas en proyectos internos no remunerados, orientados a la inclusión de personas con discapacidad y al apoyo de iniciativas sociales.",
+  "epam_desc_10": "Elaboración rigurosa de documentación técnica del frontend para asegurar el mantenimiento a largo plazo y la escalabilidad del proyecto.",
+    
+  "optiva_desc_1": "Obtuve experiencia práctica en desarrollo usando Flutter, Angular, WebOS y Tizen.",
+  "optiva_desc_2": "Colaboré en proyectos, utilizando herramientas como Git, Jira, Bitbucket, Figma y Swagger.",
+
+  "epam_tip_1": "Enfoque en la optimización del rendimiento, reduciendo los tiempos de carga en un 20% en plataformas Tizen.",
+  "epam_tip_2": "Utilicé prompts personalizados de IA para la generación de código boilerplate, aumentando la velocidad del equipo en un 15%.",
+  "epam_tip_3": "Creé y mantuve documentación detallada en Bitbucket, asegurando cero interrupciones durante las transferencias de equipo y una rápida incorporación.",
+  "epam_tip_4": "Incluye desarrollo para múltiples plataformas y entornos de visualización, como navegadores web, aplicaciones móviles híbridas y Smart TVs (WebOS/Tizen).",
+  "epam_tip_5": "Experiencia en sistemas de tipado fuerte (TypeScript, Dart) y en el manejo de lógica de backend en Java para la integración de servicios.",
+  "epam_tip_6": "Profundo conocimiento en la arquitectura de componentes React y Angular, gestión de estado con Redux, y dominio del ecosistema de testing con herramientas como Jest y React Testing Library.",
+  "epam_tip_7": "Eficiencia en el uso de sistemas de control de versiones distribuidos (Git/Bitbucket), definición de APIs (Swagger) y simulación de servicios (WireMock) para pruebas de integración.",
+  "epam_tip_8": "Desarrollo de flujos de trabajo eficientes utilizando IA para la generación de código, refactorización y documentación, mejorando la velocidad y calidad del desarrollo.",
+  "epam_tip_9": "Liderazgo y participación en iniciativas de Responsabilidad Social Corporativa (RSC), aplicando habilidades de desarrollo para crear soluciones tecnológicas inclusivas.",
+  "epam_tip_10": "Creación de manuales de uso y guías de arquitectura de frontend claras y concisas, facilitando la incorporación de nuevos miembros al equipo y la gestión de deuda técnica.",
+
+  "optiva_tip_1": "Trabajé principalmente en la depuración de bases de código heredadas y la refactorización de componentes a estándares TypeScript.",
+  "optiva_tip_2": "Gestioné el desarrollo de funcionalidades desde los mockups de Figma hasta el código listo para producción, haciendo seguimiento en Jira.",
+  "tooltip_default": "Detalles contextuales sobre este logro.",
+  
+  "language_es_gl": "Español / Gallego",
+  "language_en": "Inglés",
+  "language_pt": "Portugués",
+  
+  "level_native": "Nativo",
+  "level_high": "Nivel Alto",
+  "level_beginner": "Principiante",
+
+  "aria_label_social": "Visitar mi perfil de {{name}}",
+  "mode_switch_light": "Modo Claro",
+  "mode_switch_dark": "Modo Oscuro",
+
+  "degree_web_mobile": "Grado Superior DESARROLLO WEB Y DISPOSITIVOS MÓVILES, BILINGÜE.",
+  "discipline_web_mobile": "Frontend: HTML, CSS, Bootstrap, JavaScript | Backend: Java, PHP, MySQL, Symfony | Móvil: Android Studio (Java) | Metodologías: Agile, Scrum, Kanban",
+  "date_2020_2022": "Curso 2020-2022",
+
+  "degree_image_tech": "Técnico en laboratorio de imagen.",
+  "date_2003_2004": "Curso 2003-2004",
+
+  "degree_english": "Grado en estudios ingleses. (Materias sueltas).",
+  "date_2014_2018": "2014-2018",
+
+  "course_vodafone": "Curso de Desarrollo Web",
+  "discipline_vodafone": "Frontend: HTML, CSS, Js. Vue. | Backend: Java. (Postman, Git).",
+  "date_2020_800h": "Curso 2020, 800 Horas"
+}

@@ -1,0 +1,69 @@
+{
+  "profile_title": "Frontend Developer",
+  "profile_summary": "Highly adaptable Front-end Developer with solid experience in creating robust and modern user interfaces for Web, Mobile, and TV. Specialized in reusable component architecture and fully responsive application development. Accustomed to quickly mastering new technologies (React, Angular, Flutter, AI) to deliver high-performance, high-quality solutions in every project.",
+  
+  "section_profile": "Professional Profile",
+  "section_experience": "Professional Experience",
+  "section_skills": "Technical Skills",
+  "section_languages": "Languages",
+  "section_education": "Academic and Complementary Training",
+  
+
+  "job_epam_position": "Frontend Developer",
+  "job_optiva_media_position": "Junior Developer",
+  
+  "epam_desc_1": "Developed responsive UIs for Web, Mobile, and Smart TV (WebOS, Tizen) using Flutter, Angular, and React.",
+  "epam_desc_2": "Applied Prompt Engineering and integrated OpenAI API calls to accelerate development.",
+  "epam_desc_3": "Drafted comprehensive technical documentation to ensure project maintainability.",
+  "epam_desc_4": "Experience in interface development for Web, Mobile, and TV, covering the entire frontend lifecycle.",
+  "epam_desc_5": "Solid command of key languages (JavaScript, TypeScript, Dart, Java) and LowCode platforms.",
+  "epam_desc_6": "Hands-on experience with modern Frameworks and libraries (React, Angular, Flutter), with a focus on unit testing using Jest.",
+  "epam_desc_7": "Advanced handling of development and automation tools (Git, Gradle, Bitbucket, Postman, Swagger, WireMock, npm, Langflow, ArcGIS) and Agile methodologies (Jira, Figma, Kanban).",
+  "epam_desc_8": "Implementation of Prompt Engineering (Generative AI applied to development) and direct consumption of OpenAI APIs for innovative solutions.",
+  "epam_desc_9": "Outstanding contributions to unpaid internal projects focused on the inclusion of people with disabilities and supporting social initiatives.",
+  "epam_desc_10": "Rigorous preparation of technical frontend documentation to ensure long-term maintenance and project scalability.",
+    
+  "optiva_desc_1": "Gained practical development experience using Flutter, Angular, WebOS, and Tizen.",
+  "optiva_desc_2": "Collaborated on projects, utilizing tools like Git, Jira, Bitbucket, Figma, and Swagger.",
+
+  "epam_tip_1": "Focused on performance optimization, reducing load times by 20% on Tizen platforms.",
+  "epam_tip_2": "Utilized custom AI prompts for boilerplate code generation, boosting team velocity by 15%.",
+  "epam_tip_3": "Created and maintained detailed documentation on Bitbucket, ensuring zero-downtime during team handovers and quick onboarding.",
+  "epam_tip_4": "Includes development for multiple platforms and viewing environments, such as web browsers, hybrid mobile applications, and Smart TVs (WebOS/Tizen).",
+  "epam_tip_5": "Experience in strongly typed systems (TypeScript, Dart) and handling backend logic in Java for service integration.",
+  "epam_tip_6": "Deep knowledge of React and Angular component architecture, state management with Redux, and command of the testing ecosystem with tools like Jest and React Testing Library.",
+  "epam_tip_7": "Efficiency in using distributed version control systems (Git/Bitbucket), API definition (Swagger), and service simulation (WireMock) for integration testing.",
+  "epam_tip_8": "Development of efficient workflows using AI for code generation, refactoring, and documentation, improving development speed and quality.",
+  "epam_tip_9": "Leadership and participation in Corporate Social Responsibility (CSR) initiatives, applying development skills to create inclusive technological solutions.",
+  "epam_tip_10": "Creation of clear and concise user manuals and frontend architecture guides, facilitating the onboarding of new team members and managing technical debt.",
+
+  "optiva_tip_1": "Worked primarily on debugging legacy codebases and refactoring components to TypeScript standards.",
+  "optiva_tip_2": "Managed feature development from Figma mockups to production-ready code, tracking progress in Jira.",
+  "tooltip_default": "Contextual details on this achievement.",
+  
+  "language_es_gl": "Spanish / Galician",
+  "language_en": "English",
+  "language_pt": "Portuguese",
+
+  "level_native": "Native",
+  "level_high": "High Level",
+  "level_beginner": "Beginner",
+
+  "aria_label_social": "Visit my {{name}} profile",
+  "mode_switch_light": "Light Mode",
+  "mode_switch_dark": "Dark Mode",
+
+  "degree_web_mobile": "Higher Degree in WEB AND MOBILE DEVELOPMENT, BILINGUAL.",
+  "discipline_web_mobile": "Frontend: HTML, CSS, Bootstrap, JavaScript | Backend: Java, PHP, MySQL, Symfony | Mobile: Android Studio (Java) | Methodologies: Agile, Scrum, Kanban",
+  "date_2020_2022": "Course 2020-2022",
+
+  "degree_image_tech": "Image Laboratory Technician.",
+  "date_2003_2004": "Course 2003-2004",
+
+  "degree_english": "Bachelor's Degree in English Studies. (Separate subjects).",
+  "date_2014_2018": "2014-2018",
+
+  "course_vodafone": "Web Development Course",
+  "discipline_vodafone": "Frontend: HTML, CSS, Js. Vue. | Backend: Java. (Postman, Git).",
+  "date_2020_800h": "Course 2020, 800 Hours"
+}
